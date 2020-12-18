@@ -1,23 +1,6 @@
-<h2> Olá! Sou Vitor Rezende Campos</h2>
+<h2> Hey! I'm Vitor Rezende Campos</h2>
 
-<h3> 👨🏻‍💻 Sobre mim </h3>
-
-- 🎓 &nbsp; Bacharel em Ciência da Computação pela UFMT, especializando em Redes e Computação Distribuída pelo IFMT.
-- 💼 &nbsp; Trabalhando como Analista de Controle de Qualidade na Unisystem - Inteligência em Agronegócio.
-- 🌱 &nbsp; Conhecimentos em processos e Sistemas de Gestão Empresarial com atividades relacionadas ao Agronegócio.
-- ✍️ &nbsp; Aprimorando os conhecimentos na stack ReactJS, ReactNative e NodeJS para desenvolvimento web/mobile/backend.
-
-<h3>🛠 Tecnologias</h3>
-
-- 💻 &nbsp; Python | Java | C++ 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP | Node.js | React
-- 🛢 &nbsp; MySQL | MongoDB | Oracle | MsSQL
-- 🔧 &nbsp; Git | GitKraken
-
-<br/>
-
-
-<h3> 🤝🏻 Conexões </h3>
+<h3> 🤝🏻‍💻  Conections </h3>
 
 <p align="center">
 <a href="https://www.vitorezende.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.vitorezende.dev-blue?style=flat-square&logo=google-chrome"></a>
